@@ -1,2 +1,1 @@
-# DevopsApp
-Aws-Bootcamp
+# MyProject
